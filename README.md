@@ -13,6 +13,7 @@ This is a repository to keep track of my Leetcode daily challenge submissions.
 - **129.** Sum Root to Leaf Numbers (2024-04-15)
 - **623.** Add One Row to Tree (2024-04-16)
 - **988.** Smallest String Starting From Leaf (2024-04-17)
+- **200.** Number of Islands (2024-04-19)
 
 ### Hard
 - **42.** Trapping Rain Water (2024-04-12)
