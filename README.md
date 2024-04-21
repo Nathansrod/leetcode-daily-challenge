@@ -6,6 +6,7 @@ This is a repository to keep track of my Leetcode daily challenge submissions.
 
 ### Easy
 - **463.** Island Perimeter (2024-04-18)
+- **1971.** Find if Path Exists in Graph (2024-04-21)
 
 ### Medium
 - **950.** Reveal Cards In Increasing Order (2024-04-10)
@@ -14,6 +15,7 @@ This is a repository to keep track of my Leetcode daily challenge submissions.
 - **623.** Add One Row to Tree (2024-04-16)
 - **988.** Smallest String Starting From Leaf (2024-04-17)
 - **200.** Number of Islands (2024-04-19)
+- **1992.** Find All Groups of Farmland (2024-04-20)
 
 ### Hard
 - **42.** Trapping Rain Water (2024-04-12)
