@@ -17,6 +17,7 @@ This is a repository to keep track of my Leetcode daily challenge submissions.
 - **200.** Number of Islands (2024-04-19)
 - **1992.** Find All Groups of Farmland (2024-04-20)
 - **752.** Open the Lock (2024-04-22)
+- **310.** Minimum Height Trees (2024-04-23)
 
 ### Hard
 - **42.** Trapping Rain Water (2024-04-12)
