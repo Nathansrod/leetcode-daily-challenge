@@ -7,7 +7,7 @@ This is a repository to keep track of my Leetcode daily challenge submissions.
 ### Easy
 - **463.** Island Perimeter (2024-04-18)
 - **1971.** Find if Path Exists in Graph (2024-04-21)
-- **1137.** N-th Tribonacci Number
+- **1137.** N-th Tribonacci Number (2024-04-24)
 
 ### Medium
 - **950.** Reveal Cards In Increasing Order (2024-04-10)
@@ -19,6 +19,7 @@ This is a repository to keep track of my Leetcode daily challenge submissions.
 - **1992.** Find All Groups of Farmland (2024-04-20)
 - **752.** Open the Lock (2024-04-22)
 - **310.** Minimum Height Trees (2024-04-23)
+- **2370.** Longest Ideal Subsequence (2024-04-25)
 
 ### Hard
 - **42.** Trapping Rain Water (2024-04-12)
